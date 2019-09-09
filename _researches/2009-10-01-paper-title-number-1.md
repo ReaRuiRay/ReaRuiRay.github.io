@@ -1,7 +1,7 @@
 ---
 title: "Pollution Transport from Southeast Asia into the Tibetan Plateau"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+collection: researches
+permalink: /research/2009-10-01-paper-title-number-1
 excerpt: 'This research blablabla'
 date: 2009-10-01
 venue: 'Journal 1'
