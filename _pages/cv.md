@@ -9,13 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
 * B.S. in Atmospheric Sciences, School of Physics, Peking University, 2013
-* Ph.D in Atmospheric Chemistry, School of Earth and Atmopheric Sciences, 2017
+* Ph.D. in Atmospheric Chemistry, School of Earth and Atmopheric Sciences, 2017
 
-Work experience
-======
+## Work experience
 * 2018 - Present: Atmospheric Data Scientist
   * ClimaCell, Boston
   * Supervisor: Dr. Daniel Rothernberg, Chief Scientist
@@ -26,8 +24,7 @@ Work experience
   * Supervisor: Dr. Yuhang Wang
   * Duties included: Inverse modelling of air pollutant emissions using Bayesian inferences; Co-led a multi-institute field campaign in East China;
   
-Skills
-======
+## Skills
 * Programming languages
   * Python (Pandas, Numba, Xarray, Numpy, matplotlib, cartopy...), Matlab, IDL
   * Java, C++, Javascript (Node.js)
@@ -39,24 +36,20 @@ Skills
   * Languages: English (fluent), Chinese (native)
 
 
-Publications
-======
+## Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
+## Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
+## Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
+## Service and leadership
 * Reviewer for Geophysical Research Letters (U.S.), Atmósfera (Mexico), Atmosphere (Switzerland), PLOS ONE (U.S.)
