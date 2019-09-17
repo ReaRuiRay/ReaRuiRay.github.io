@@ -52,4 +52,4 @@ redirect_from:
   {% endfor %}</ul>
   
 ## Service and leadership
-* Reviewer for Geophysical Research Letters (U.S.), Atmósfera (Mexico), Atmosphere (Switzerland), PLOS ONE (U.S.)
+* Reviewer for Geophysical Research Letters (5 times), Atmósfera (2 time), Atmosphere (1 time), PLOS ONE (1 time)
