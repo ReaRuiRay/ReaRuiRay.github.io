@@ -11,7 +11,9 @@ redirect_from:
 
 ## Education
 * B.S. in Atmospheric Sciences, School of Physics, Peking University, 2013
-* Ph.D. in Atmospheric Chemistry, School of Earth and Atmopheric Sciences, 2017
+  * Advisor: Dr. Jintai Lin
+* Ph.D., School of Earth and Atmopheric Sciences, Georgia Institude of Technology, 2017
+  * Advisor: Dr. Yuhang Wang
 
 ## Work experience
 * 2018 - Present: Atmospheric Data Scientist
@@ -23,18 +25,9 @@ redirect_from:
   * Georgia Institute of Technology
   * Supervisor: Dr. Yuhang Wang
   * Duties included: Inverse modelling of air pollutant emissions using Bayesian inferences; Co-led a multi-institute field campaign in East China;
-  
-## Skills
-* Programming languages
-  * Python (Pandas, Numba, Xarray, Numpy, matplotlib, cartopy...), Matlab, IDL
-  * Java, C++, Javascript (Node.js)
-* Databases: MongoDB, Redis, MySQL, Google BigQuery
-* Cloud Platforms: Google Cloud Platform, AWS, Aliyun, Tencent cloud
-* Other:
-  * GIS (QGIS)
-  * CFA level 1 passed 
-  * Languages: English (fluent), Chinese (native)
 
+## Service and leadership
+* Reviewer for Geophysical Research Letters (5 times), Atmósfera (3 times), Atmosphere (3 times), PLOS ONE (1 time), Frontiers In Forests And Global Change (1 time)
 
 ## Publications
   <ul>{% for post in site.publications %}
@@ -50,6 +43,15 @@ redirect_from:
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-## Service and leadership
-* Reviewer for Geophysical Research Letters (5 times), Atmósfera (2 time), Atmosphere (1 time), PLOS ONE (1 time)
+    
+## Skills
+* Programming languages
+  * Python (Pandas, Numba, Xarray, Numpy, matplotlib, cartopy...), Matlab, IDL
+  * Java, C++, Javascript (Node.js)
+* Databases: MongoDB, Redis, MySQL, Google BigQuery
+* Cloud Platforms: Google Cloud Platform, AWS, Aliyun, Tencent cloud
+* Other:
+  * GIS (QGIS)
+  * CFA level 1 passed 
+  * Languages: English (fluent), Chinese (native)
+

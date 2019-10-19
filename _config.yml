@@ -10,8 +10,8 @@ locale                   : "en-US"
 title                    : "Home page"
 title_separator          : "-"
 name                     : &name "Ruixiong Zhang"
-description              : &description "Experienced atmospheric research scientist; numerical & physical modelling; satellite retrievals; data assimilation;"
-url                      : http://127.0.0.1:4000 # https://ReaRuiRay.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Experienced atmospheric scientist; numerical & physical modelling; satellite retrievals; data assimilation; inverse modelling"
+url                      : https://ReaRuiRay.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ReaRuiRay/ReaRuiRay.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Experienced atmospheric scientist in numerical & physical modelling and satellite retrievals. IoT & light software hobbist."
   location         : "Boston"
-  employer         :
+  employer         : "ClimaCell"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=GclpZkkAAAAJ&hl=en"
   email            :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/ReaRuiRay"
+  github           : "ReaRuiRay"
   google_plus      :
   keybase          :
   instagram        :

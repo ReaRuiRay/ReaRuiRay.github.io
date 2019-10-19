@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+title: "Science is about discovery"
 permalink: /researches/
 author_profile: true
 ---
