@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home page"
+title                    : "Call Me Ray"
 title_separator          : "-"
 name                     : &name "Ruixiong Zhang"
 description              : &description "Experienced atmospheric scientist; numerical & physical modelling; satellite retrievals; data assimilation; inverse modelling"
