@@ -26,12 +26,12 @@ redirect_from:
   * Supervisor: Dr. Yuhang Wang
   * Duties included: Inverse modelling of air pollutant emissions using Bayesian inferences; Co-led a multi-institute field campaign in East China;
 
-## Service and leadership
-* Reviewer for Geophysical Research Letters (5 times), Atmósfera (3 times), Atmosphere (3 times), PLOS ONE (1 time), Frontiers In Forests And Global Change (1 time)
+## Service
+* Reviewer for <i>Geophysical Research Letters</i> (5 times), <i>Atmósfera</i> (3 times), <i>Atmosphere</i> (3 times), <i>PLOS ONE</i> (1 time), <i>Frontiers In Forests And Global Change</i> (1 time)
 
 ## Publications
   <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
+    {% include archive-single-publication-cv.html %}
   {% endfor %}</ul>
   
 ## Talks

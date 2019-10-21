@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "I am ...?"
-excerpt: "About me"
+title: "Know about me"
+excerpt: "About"
 author_profile: true
 redirect_from: 
   - /about/
@@ -24,9 +24,9 @@ A wheel innovator
 
 Engineers and scientists always scold themselves for doing duplicate works. Indeed it is not cool to spend hundreds of hours to replicate others' works exactly. 
 
-Contrary to this practice, some go to extremes that they will use others' work whenever and wherever. This is even worse than reinventing the wheel. 
+Contrary to this practice, some go to extremes that they will use others' work unconditionally and reluctant to do-it-yourself. This might be worse than reinventing the wheel. 
 
-As a **physicist**, I would stand on the giant's shoulder and build whatever I please ---s using experience and vision to decide whether and to what extent we want to bother with the wheel. For example, when I tackle with a spatial interpolation problem,  I would certainly use *numba* and *numpy* of *Python* as infrastructure (well, I won't and I can't reinvent them), try existing interpolation methods (*scipy*, *esmf*), and may decide they are not built for my specific case and reinvent them. 
+As a **physicist**, I would go from the basic physics laws to solve problems instead of asking for equations to use directly --- those derived equations usually have some conditions and are too many to remember. In real-life application, I would use experience and vision to decide whether and to what extent we want to bother with the wheel. For example, when I tackle with a spatial interpolation problem,  I would certainly use *numba* and *numpy* of *Python* as infrastructure (well, I won't and I can't reinvent them), try existing interpolation methods (*scipy*, *esmf*), and may decide they are not built for my specific case and reinvent them. 
 [Learn more about my projects](/researches)
 
 <!--
