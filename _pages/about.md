@@ -1,10 +1,9 @@
 ---
-permalink: /
-title: "Know about me"
-excerpt: "About"
+layout: archive
+title: "About me"
+permalink: /about/
 author_profile: true
-redirect_from: 
-  - /about/
+redirect_from:
   - /about.html
 ---
 

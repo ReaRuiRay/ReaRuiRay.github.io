@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 ## Education
 * B.S. in Atmospheric Sciences, School of Physics, Peking University, 2013
   * Advisor: Dr. Jintai Lin
@@ -30,17 +28,17 @@ redirect_from:
 * Reviewer for <i>Environment International</i> (1 time),  <i>Journal of Geophysical Research - Atmospheres</i> (5 times), <i>PLOS ONE</i> (1 time), <i>Atmosphere</i> (3 times), <i>Frontiers In Forests And Global Change</i> (1 time), <i>Atmósfera</i> (3 times)
 
 ## Publications
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-publication-cv.html %}
   {% endfor %}</ul>
   
 ## Talks
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 ## Teaching
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
     
