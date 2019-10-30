@@ -3,17 +3,17 @@ layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/header-1.jpg
+  overlay_image: /assets/images/header-2.jpg
   actions:
     - label: "About me"
       url: "/about"
-  caption: "Walden Pond in 2019"
-excerpt: "I am a scientist interested in applying the best techniques to benefit the society. "
+  caption: "Blue Hills during Fall"
+excerpt: "I am an atmospheric scientist interested in applying the best techniques to benefit the society. "
 intro: 
   - excerpt: 'My works are classified into the following categories. Why not give each a peek? '
 feature_row:
-  - image_path: /assets/images/research.jpg
-    image_caption: "Measurement campaign in East China" 
+  - image_path: /assets/images/research-2.png
+    image_caption: "Air pollution in U.S." 
     alt: "Research picture"
     title: "Research"
     url: /researches
