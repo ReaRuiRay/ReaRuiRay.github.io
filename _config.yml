@@ -110,7 +110,7 @@ author:
   name             : "Ruixiong Zhang"
   avatar           : "/assets/images/profile.png"
   bio              : "Experienced atmospheric scientist in numerical & physical modelling and satellite retrievals. IoT & light software hobbist."
-  location         : "Boston"
+  location         : 
   email            :
   links:
     - label: "Email"
@@ -127,7 +127,16 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/ReaRuiRay"
+    - label: "ORCiD"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/0000-0002-8597-8969"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google"
+      url: "https://scholar.google.com/citations?user=GclpZkkAAAAJ&hl=en"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/in/ruixiong-ray-zhang-b262511b/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
