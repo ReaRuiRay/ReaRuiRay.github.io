@@ -5,7 +5,7 @@ permalink: /researches/
 author_profile: true
 ---
 
-You may also find my publications on <u><a href="https://scholar.google.com/citations?user=GclpZkkAAAAJ&hl=en">my Google Scholar profile</a>.</u>
+You may also find all publications on <u><a href="/publications">Publications page</a>.</u>
 
 {% for post in site.researches reversed %}
   {% include archive-single.html %}
