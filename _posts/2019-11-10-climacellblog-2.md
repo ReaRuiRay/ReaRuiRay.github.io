@@ -16,12 +16,14 @@ With the speed and ferocity in which they spread, is there a way to more accurat
 Wildfires leave debris behind and emit smoke plumes, which drift in the air. The direct impact of wildfire is obvious — burnt properties and life loss in immediate adjacent areas. However, air quality effects from the smoke plumes may result in even more catastrophic consequences. Poor air quality has been linked to shorter lifespans.
 
 ![alt text](/files/posts/20191110/wildfires-2.jpg "Wildfire")
+
 *Image credit: Kari Greer/USFS Gila National Forest*
 
 ### Wildfires: The Problem With Incomplete Combustion
 Unfortunately, wildfires result in incomplete combustion, without any emission control. To comply with EPA regulations, power plants reduce their emissions in various ways, such as filtering the air emitted after combustion. In a wildfire, chemicals like sulfur dioxide and particulates are released directly into the environment.
 
 ![alt text](/files/posts/20191110/wildfires-3.jpg "Smoke")
+
 *Image credit: climate.gov*
 
 In our daily lives, there are two types of combustion: anthropogenic fossil fuel (gasoline, natural gas, etc.) combustion, and biomass burning (leaves, branches, trees, crop residuals, etc.). 
@@ -29,6 +31,7 @@ In our daily lives, there are two types of combustion: anthropogenic fossil fuel
 Anthropogenic fossil fuel combustions are optimized deliberately as we want to maximize its power output by approaching complete combustion. Complete combustion will oxidize the burning substance as much as possible, producing mainly well studied gases such as CO2, SO2, NO2, H2O. These gases can then be removed chemically or physically in a controlled and efficient manner. This is what happens in fossil fuel power plants and vehicles. 
 
 ![alt text](/files/posts/20191110/wildfires-4.jpg "Plants")
+
 *Image credit: Alan Cressler, US Geological Survey*
 
 On the other hand, biomass combustion will additionally yield numerous air pollutants, including particulate matters (i.e., the dark smoke you see), volatile organic compounds (VOCs such as C<sub>x</sub>H<sub>y</sub>O<sub>z</sub> that are usually colorless).  
