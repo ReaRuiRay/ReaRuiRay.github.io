@@ -25,7 +25,7 @@ redirect_from:
   * Duties included: Inverse modelling of air pollutant emissions using Bayesian inferences; Co-led a multi-institute field campaign in East China;
 
 ## Service
-* Reviewer for <i>Environment International</i>, <i>Environmental Pollution</i>, <i>Journal of Geophysical Research - Atmospheres</i>, <i>PLOS ONE</i>, <i>Atmosphere</i>, <i>Atmósfera</i>, <i>Frontiers In Forests And Global Change</i>
+* Reviewer for <i>Environment International</i>, <i>Environmental Pollution</i>, <i>Journal of Geophysical Research - Atmospheres</i>, <i>PLOS ONE</i>, <i>Atmosphere</i>, <i>Atmósfera</i>, <i>Frontiers In Forests And Global Change</i>, <i>Environmental Research Communications</i>
 
 ## Publications
   <ul>{% for post in site.publications reversed %}
