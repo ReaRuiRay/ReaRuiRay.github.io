@@ -2,7 +2,7 @@
 title: "Pollution Transport from South Asia into the Tibetan Plateau"
 collection: researches
 permalink: /research/2017-02-28-Pollution-into-Tibet
-venue: '<i>Atmospheric Chemistry and Transport</i>'
+venue: '<i>Atmospheric Chemistry and Physics</i>'
 excerpt: "Air pollution transport from South Asia into Tibet (2 papers) <br/><img src='/files/researches/pollution_into_tibet/2.png'>"
 ---
 It is very common to think that the great barrier of the Himalayas protect the Tibetan Plateau from air pollution in the south. However, this is not true. When the transport pattern at higher levels is favorable, the transport of pollution from the South Asia to the Tibetan Plateau is evident. 
