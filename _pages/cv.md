@@ -14,7 +14,7 @@ redirect_from:
   * Advisor: Dr. Yuhang Wang
 
 ## Work experience
-* 2018 - Present: Atmospheric Data Scientist
+* 2018 - Present: Senior Atmospheric Data Scientist
   * ClimaCell, Boston
   * Supervisor: Dr. Daniel Rothernberg, Chief Scientist
   * Duties included: Lead scientist in research, development of environmental products (including air quality) with international multi-timezone collaboration; Mentoring internship and junior scientists;
